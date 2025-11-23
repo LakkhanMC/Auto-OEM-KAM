@@ -3,7 +3,7 @@ import pandas as pd
 from ai_logic import calculate_health_score, calculate_risk_score, generate_recommendation
 
 st.set_page_config(page_title="OEM–Dealer KAM Dashboard", layout="wide")
-st.title("🚗 AI-Powered Key Account Management Dashboard (Automobile OEM)")
+st.title("🚗 AI-Powered Key Account Management Dashboard (for Automobile OEMs)")
 
 uploaded = st.file_uploader("Upload Dealer Performance CSV", type=["csv"])
 
