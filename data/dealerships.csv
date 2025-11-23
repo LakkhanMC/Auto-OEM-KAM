@@ -1,0 +1,11 @@
+dealer_name,city,retail_sales,target_achievement_pct,sales_csi,aging_stock_pct,outstanding_overdue_days,training_compliance_pct
+Premier Motors,Mumbai,210,92,81,18,7,85
+AutoX World,Pune,170,78,74,28,12,73
+Highway Auto,Delhi,250,105,87,15,3,90
+StarDrive,Kolkata,125,62,61,45,28,56
+Metro Auto,Chennai,180,88,78,22,11,80
+SpeedHub,Hyderabad,95,55,59,52,37,48
+DrivePlus,Bengaluru,140,74,72,30,18,70
+North Auto,Jaipur,160,81,75,25,10,77
+RoadRunner,Ahmedabad,200,96,82,20,6,88
+City Motors,Indore,110,60,64,48,22,50
